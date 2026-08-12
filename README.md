@@ -31,7 +31,7 @@ All-in-one toolkit for developers: formatters, token utilities, regex tester, AP
 End-to-end billing app with invoice generation, client dashboard, and payment tracking.
 
 - Key features: Invoice creation, client management, reporting.
-- Built with: Flutter • ASP.NET Core
+- Built with: Flutter • ASP.NET Core API
 - Status: Demo / internal use
 
 ---
