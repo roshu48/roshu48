@@ -1,8 +1,8 @@
 # Hi, I'm Roshan Rana 👋
 
-Software Programmer | Full-Stack Developer | MCA Student
+Software Programmer | Aspiring Software Engineer | MCA Student
 
-I build full-stack applications, developer tools, and AI-powered applications.
+I build full-stack applications, AI-powered solutions, and developer tools.
 
 ## Featured Projects
 
@@ -34,6 +34,15 @@ A simple ASP.NET C# Notepad application with text editing and formatting feature
 
 Java • C# • JavaScript • Python • React • Node.js • ASP.NET • Flutter •
 MongoDB • MySQL • SQL Server • Git
+
+## Currently Learning
+
+Data Structures & Algorithms • System Design • Java • Backend Development
+
+## Looking For
+
+Software Engineering opportunities where I can build scalable software,
+solve real-world problems, and grow as an engineer.
 
 ##  Connect With Me
 
