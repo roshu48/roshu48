@@ -72,7 +72,12 @@ Simple and performant notepad for quick notes, with formatting and save/export o
 
 ## Currently Learning
 
-Data Structures & Algorithms • System Design • Java • Backend Development
+I’m actively improving my backend and system-design skills to build scalable, production-ready systems.
+
+- Data Structures & Algorithms — focused on problem solving and performance.
+- System Design — distributed systems, scalability patterns, and real-world architecture.
+- Java — strengthening core language features, idiomatic patterns, and ecosystem tools.
+- Backend Development — REST/GraphQL APIs, authentication, databases, and deployment.
 
 ## Looking For
 
