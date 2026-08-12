@@ -55,7 +55,7 @@ Data Structures & Algorithms • System Design • Java • Backend Development
 Software Engineering opportunities where I can build scalable software,
 solve real-world problems, and grow as an engineer.
 
-## Connected as
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-rana-4018a22b2/)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/roshu48)
