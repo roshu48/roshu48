@@ -30,10 +30,20 @@ A simple ASP.NET C# Notepad application with text editing and formatting feature
 
 **[GitHub](https://github.com/roshu48/Notepad_Project)**
 
-##  Tech Stack
+## Tech Stack
 
-Java • C# • JavaScript • Python • React • Node.js • ASP.NET • Flutter •
-MongoDB • MySQL • SQL Server • Git
+- ☕️ Java
+- ● C#
+- 🟨 JavaScript
+- 🐍 Python
+- ⚛️ React
+- 🟢 Node.js
+- 🎯 ASP.NET
+- 🐦 Flutter
+- 🍃 MongoDB
+- 🐬 MySQL
+- 🗄️ SQL Server
+- 🔧 Git
 
 ## Currently Learning
 
@@ -44,6 +54,6 @@ Data Structures & Algorithms • System Design • Java • Backend Development
 Software Engineering opportunities where I can build scalable software,
 solve real-world problems, and grow as an engineer.
 
-##  Connect With Me
+## Connect With Me
 
 **[LinkedIn](https://www.linkedin.com/in/roshan-rana-4018a22b2/) • [GitHub](https://github.com/roshu48)**
