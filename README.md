@@ -81,8 +81,7 @@ I’m actively improving my backend and system-design skills to build scalable, 
 
 ## Looking For
 
-Software Engineering opportunities where I can build scalable software,
-solve real-world problems, and grow as an engineer.
+Currently open to Software Engineer positions (backend, full‑stack, or platform engineering). I enjoy building scalable services, improving reliability, and delivering measurable product value. Open to remote and hybrid roles—available to start immediately / with standard notice.
 
 ## Connected as
 
