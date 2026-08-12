@@ -1,8 +1,8 @@
 # Hi, I'm Roshan Rana 👋
 
-Software Programmer | Aspiring Software Engineer | MCA Student
+Software Engineer • Full‑Stack Developer • MCA Student
 
-I build full-stack applications, AI-powered solutions, and developer tools.
+I build scalable web applications, AI‑powered solutions, and developer tools that help teams move faster and deliver measurable value. My focus is on clean architecture, reliable backend systems, and polished front-end experiences.
 
 ## Featured Projects
 
