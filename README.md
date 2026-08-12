@@ -11,7 +11,7 @@ I build full-stack applications, AI-powered solutions, and developer tools.
 AI-driven storytelling app that helps users generate and refine stories with custom prompts and character builders.
 
 - Key features: Prompt templates, character profiles, scene generation, export to Markdown.
-- Built with: React • Node.js • MongoDB • Ollama • Hugging Face
+- Built with: React • Node.js • MongoDB • Ollama • Hugging Face API
 - Status: Production-ready (deployed)
 
 ---
@@ -21,7 +21,7 @@ AI-driven storytelling app that helps users generate and refine stories with cus
 All-in-one toolkit for developers: formatters, token utilities, regex tester, API tester, and converters.
 
 - Key features: Code formatters, JWT/UUID/Base64 tools, Regex tester, Markdown preview.
-- Built with: Node.js • Express • React
+- Built with: Asp.net C# • Javascript • HTML/CSS
 - Status: Maintained / actively improved
 
 ---
@@ -41,7 +41,7 @@ End-to-end billing app with invoice generation, client dashboard, and payment tr
 Lightweight, responsive site providing current weather and forecasts using a reliable weather API.
 
 - Key features: Current conditions, hourly/daily forecast, location search.
-- Built with: Next.js • External Weather API
+- Built with: React.js • External Weather API
 - Status: Deployed
 
 ---
