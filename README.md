@@ -34,6 +34,7 @@ A simple ASP.NET C# Notepad application with text editing and formatting feature
 
 - ☕️ Java
 - ● C#
+- 💠 C++
 - 🟨 JavaScript
 - 🐍 Python
 - ⚛️ React
