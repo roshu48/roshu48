@@ -17,7 +17,7 @@ AI-driven storytelling app that helps users generate and refine stories with cus
 ---
 
 ### DevVault — Developer utilities suite
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/roshu48/DevVault) [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-brightgreen?style=flat-square)](https://devvault.netlify.app)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/roshu48/DevVault) [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-brightgreen?style=flat-square)](https://devvault-0qbv.onrender.com/)  
 All-in-one toolkit for developers: formatters, token utilities, regex tester, API tester, and converters.
 
 - Key features: Code formatters, JWT/UUID/Base64 tools, Regex tester, Markdown preview.
@@ -27,7 +27,7 @@ All-in-one toolkit for developers: formatters, token utilities, regex tester, AP
 ---
 
 ### Billing Software — Invoice & client management
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/roshu48/Billing_Software)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white)](https://story-crafter-eta.vercel.app/)  
 End-to-end billing app with invoice generation, client dashboard, and payment tracking.
 
 - Key features: Invoice creation, client management, reporting.
@@ -37,7 +37,7 @@ End-to-end billing app with invoice generation, client dashboard, and payment tr
 ---
 
 ### Weather Website — Real-time forecasts
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/roshu48/weather) [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-brightgreen?style=flat-square)](https://roshu48-weather.netlify.app)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/roshu48/weather) [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-brightgreen?style=flat-square)](https://weather-cyan-seven-70.vercel.app/)  
 Lightweight, responsive site providing current weather and forecasts using a reliable weather API.
 
 - Key features: Current conditions, hourly/daily forecast, location search.
