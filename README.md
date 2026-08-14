@@ -83,19 +83,13 @@ I'm actively improving my backend and system-design skills to build scalable, pr
 
 Currently open to Software Engineer positions (backend, full‑stack, or platform engineering). I enjoy building scalable services, improving reliability, and delivering measurable product value. Interested in roles that value clean code, continuous learning, and meaningful impact.
 
-## Certificates & Experience
+## Experience
 
 ### Job Experience Certificate
-- **Company**: [Your Company Name]
-- **Position**: [Your Position Title]
-- **Duration**: [Start Date] - [End Date]
-- **Certificate**: [View Certificate](./certificates/certificate.pdf)
-
-### Additional Certifications
-- **Certification Name**: [Description]
-- **Issued By**: [Organization]
-- **Date**: [Date]
-- **Credential**: [Link if available]
+- **Company**: [Jupiter System]
+- **Position**: [Software Programmer]
+- **Duration**: [May - 2024] - [July - 2025]
+- **Certificate**: [View Certificate](https://drive.google.com/file/d/1AwxWxukzTYYz7bKpKYr_h6FDA47tTyuh/view)
 
 ## Connected as
 
