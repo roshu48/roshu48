@@ -7,7 +7,7 @@ I build scalable web applications, AI‑powered solutions, and developer tools t
 ## Featured Projects
 
 ### Story Crafter — AI-powered storytelling platform
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/roshu48/StoryCrafter) [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-brightgreen?style=flat-square)](https://storycrafter.vercel.app)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/roshu48/StoryCrafter) [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-brightgreen?style=flat-square)](https://story-crafter-eta.vercel.app/)  
 AI-driven storytelling app that helps users generate and refine stories with custom prompts and character builders.
 
 - Key features: Prompt templates, character profiles, scene generation, export to Markdown.
