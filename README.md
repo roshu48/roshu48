@@ -86,9 +86,9 @@ Currently open to Software Engineer positions (backend, full‑stack, or platfor
 ## Experience
 
 ### Job Experience Certificate
-- **Company**: [Jupiter System]
-- **Position**: [Software Programmer]
-- **Duration**: [May - 2024] - [July - 2025]
+- **Company**: Jupiter System
+- **Position**: Software Programmer
+- **Duration**: May - 2024 to July - 2025
 - **Certificate**: [View Certificate](https://drive.google.com/file/d/1AwxWxukzTYYz7bKpKYr_h6FDA47tTyuh/view)
 
 ## Connected as
