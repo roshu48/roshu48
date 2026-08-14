@@ -2,12 +2,12 @@
 
 Software Engineer • Full‑Stack Developer • MCA Student
 
-I build scalable web applications, AI‑powered solutions, and developer tools that help teams move faster and deliver measurable value. My focus is on clean architecture, reliable backend systems, and polished front-end experiences.
+I build scalable web applications, AI‑powered solutions, and developer tools that help teams move faster and deliver measurable value. My focus is on clean architecture, reliable backend systems, and creating impactful solutions that scale.
 
 ## Featured Projects
 
 ### Story Crafter — AI-powered storytelling platform
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/roshu48/StoryCrafter) [![Live Demo](https://img.shields.io/badge/Live%20Demo-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://story-crafter-eta.vercel.app/)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/roshu48/StoryCrafter) [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-brightgreen?style=flat-square)](https://storycrafter.vercel.app)  
 AI-driven storytelling app that helps users generate and refine stories with custom prompts and character builders.
 
 - Key features: Prompt templates, character profiles, scene generation, export to Markdown.
@@ -17,7 +17,7 @@ AI-driven storytelling app that helps users generate and refine stories with cus
 ---
 
 ### DevVault — Developer utilities suite
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/roshu48/DevVault) [![Live Demo](https://img.shields.io/badge/Live%20Demo-brightgreen?style=flat-square&logo=render&logoColor=white)](https://devvault-0qbv.onrender.com/)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/roshu48/DevVault) [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-brightgreen?style=flat-square)](https://devvault.netlify.app)  
 All-in-one toolkit for developers: formatters, token utilities, regex tester, API tester, and converters.
 
 - Key features: Code formatters, JWT/UUID/Base64 tools, Regex tester, Markdown preview.
@@ -37,7 +37,7 @@ End-to-end billing app with invoice generation, client dashboard, and payment tr
 ---
 
 ### Weather Website — Real-time forecasts
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/roshu48/weather) [![Live Demo](https://img.shields.io/badge/Live%20Demo-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://weather-cyan-seven-70.vercel.app/)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/roshu48/weather) [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-brightgreen?style=flat-square)](https://roshu48-weather.netlify.app)  
 Lightweight, responsive site providing current weather and forecasts using a reliable weather API.
 
 - Key features: Current conditions, hourly/daily forecast, location search.
@@ -72,7 +72,7 @@ Simple and performant notepad for quick notes, with formatting and save/export o
 
 ## Currently Learning
 
-I’m actively improving my backend and system-design skills to build scalable, production-ready systems.
+I'm actively improving my backend and system-design skills to build scalable, production-ready systems.
 
 - Data Structures & Algorithms — focused on problem solving and performance.
 - System Design — distributed systems, scalability patterns, and real-world architecture.
@@ -81,7 +81,21 @@ I’m actively improving my backend and system-design skills to build scalable, 
 
 ## Looking For
 
-Currently open to Software Engineer positions (backend, full‑stack, or platform engineering). I enjoy building scalable services, improving reliability, and delivering measurable product value. Open to remote and hybrid roles—available to start immediately / with standard notice.
+Currently open to Software Engineer positions (backend, full‑stack, or platform engineering). I enjoy building scalable services, improving reliability, and delivering measurable product value. Interested in roles that value clean code, continuous learning, and meaningful impact.
+
+## Certificates & Experience
+
+### Job Experience Certificate
+- **Company**: [Your Company Name]
+- **Position**: [Your Position Title]
+- **Duration**: [Start Date] - [End Date]
+- **Certificate**: [View Certificate](./certificates/certificate.pdf)
+
+### Additional Certifications
+- **Certification Name**: [Description]
+- **Issued By**: [Organization]
+- **Date**: [Date]
+- **Credential**: [Link if available]
 
 ## Connected as
 
